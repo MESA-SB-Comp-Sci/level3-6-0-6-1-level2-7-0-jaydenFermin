@@ -9,14 +9,14 @@
 h1{
    background-color: pink;
    border: 10px solid red;
-   margin:5%;
+   margin:10%;
 
 
 }
 #box-1{
    background-color: aqua;
-   padding: 8vw 8vh;
-   margin:3%;
+   padding: 4vw 171vh;
+   margin:10%;
 }
 
 
@@ -24,7 +24,7 @@ h1{
    background-color: yellow;
    border:10px solid pink ;
    padding:4vw 4vh ;
-   margin: 2%;
+   margin: 10%;
 }
 .blue{
    color:blue;
